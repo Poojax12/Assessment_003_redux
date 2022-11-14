@@ -1,0 +1,29 @@
+h1{
+  margin-top: auto;
+  text-align: center;
+  color:black;
+  background-color: rgb(145, 226, 226);
+ 
+}
+
+.dropdown label{
+  margin-left: 150px;
+  font-weight:bold;
+}
+.dropdown select{
+  width:200px;
+  height:25px;
+  margin-left:20px;
+}
+#abc{
+  margin-left: 43%;
+  margin-top: 0%;
+}
+#xyz{
+  margin-left: 43%;
+  margin-top: 2%;
+}
+#xzz{
+  margin-top:0%;
+  margin-left: 43%;
+}
